@@ -57,15 +57,15 @@
 <template>
     <div class="semi-header-text-section-ctn">
         <div class="semi-header-text-section-main-ctn">
-            <h1 class="title">The greatest<br />Architect</h1>
-            <p class="title-desc">
+            <h1 class="title" data-aos="fade-down" data-aos-delay="100">The greatest<br />Architect</h1>
+            <p class="title-desc" data-aos="fade-right" data-aos-delay="500">
                 I am an architect who seamlessly combines creativity, dedication, and strategic thinking. My journey
                 began with early exposure to art, music, and literature. I seek mentorship from architectural pioneers
                 like Mies Van Der Rohe and Le Corbusier. My standout portfolio reflects my vision, and I thrive on
                 networking, embracing challenges, and fostering personal connections.
             </p>
             <RouterLink to="/">
-                <button class="header-contact">Get in Touch</button>
+                <button class="header-contact" data-aos="fade-up" data-aos-delay="700">Get in Touch</button>
             </RouterLink>
         </div>
     </div>

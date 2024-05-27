@@ -87,10 +87,10 @@
 <template>
     <div class="semi-header-image-section-ctn">
         <div class="semi-header-image-section-main-ctn">
-            <div class="inner-image-ctn">
+            <div class="inner-image-ctn" data-aos="zoom-in-left" data-aos-delay="200">
                 <img src="/header-profile.jpg" alt="inner profile">
             </div>
-            <div class="outer-image-ctn">
+            <div class="outer-image-ctn" data-aos="fade-down-right" data-aos-delay="600">
                 <img src="/header-outer.jpg" alt="outer-profile">
             </div>
         </div>
