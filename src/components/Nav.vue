@@ -1,12 +1,12 @@
 <style scoped>
 .nav-main-ctn{
-    background-color: #e26f1c52;
+    background-color: #000000;
     display:flex;
     place-items:center;
     width:100%;
     padding:10px 40px 2px;
-    border-radius: 150px 0 150px 0;
-    box-shadow: 4px 4px 2px #552b0d, -8px -4px 6px #52290bce;
+    border-radius: 0 0 150px 0;
+    box-shadow: 4px 8px 6px hsla(0, 1%, 10%, 0.475), -8px -4px 6px hsla(0, 0%, 22%, 0.153);
 }
 .nav-semi-ctn{
     width:100%;
