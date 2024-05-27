@@ -1,5 +1,5 @@
 @import './base.css';
-a{
+*{
   box-sizing:border-box;
   text-decoration: none;
   list-style:none;
@@ -9,12 +9,11 @@ a{
   outline:0;
 }
 body{
-  width:100vw;
 }
 #app {
+  font-family: "League Spartan", sans-serif;
   width:100%;
   height:100%;
-  padding:0 6vw 2vh;
 }
 
 
